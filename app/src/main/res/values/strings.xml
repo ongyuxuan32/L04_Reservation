@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L04_Reservation</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number_of_pax">Number of Pax</string>
+    <string name="name">Name</string>
+    <string name="reservation_for_restraunt">Reservation For Restraunt</string>
+    <string name="button">Button</string>
+    <string name="confirm_booking">Confirm Booking</string>
+</resources>
